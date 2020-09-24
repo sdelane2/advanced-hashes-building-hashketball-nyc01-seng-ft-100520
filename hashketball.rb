@@ -102,6 +102,6 @@ basketball_hash =
     :blocks => 5,
     :slam_dunks => 12}]}}
     
-def game_hash(a_hash)
+def game_hash
   return a_hash
 end
