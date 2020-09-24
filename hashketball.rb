@@ -103,5 +103,5 @@ basketball_hash =
     :slam_dunks => 12}]}}
     
 def game_hash
-  return a_hash
+  return a_hash = {}
 end
