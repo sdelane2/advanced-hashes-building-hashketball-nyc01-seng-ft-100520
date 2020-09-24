@@ -1,7 +1,6 @@
-# Write your code here!
-a_hash = {}
+def game_hash 
 
-basketball_hash = 
+return basketball_hash = 
   {:home => 
     {:team_name => "Brooklyn Nets", :colors => "Black, White", :players => [
     {:player_name => "Alan Anderson", 
@@ -101,7 +100,4 @@ basketball_hash =
     :steals => 7,
     :blocks => 5,
     :slam_dunks => 12}]}}
-    
-def game_hash
-  return a_hash = {}
 end
